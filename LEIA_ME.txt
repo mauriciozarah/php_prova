@@ -1,0 +1,11 @@
+ETAPAS PARA USO:
+
+1) DESCOMPACTE O ARQUIVO laravel_materialize EM UMA PASTA.
+2) CHEGAR ATÉ A PASTA ONDE FOI DESCOMPACTADA O ARQUIVO COM O BASH(LINUX, MAC), CMD(WINDOWS). 
+	Ex.: cd c:\Users\nome_do_seu_computador\laravel_materialize
+	Ex.Linux : cd /etc/laravel_materialize
+3) COM O PROMPT OU BASH APONTADO PARA A PASTA "laravel_materialize", entrar com o comando: php artisan serve
+4) EM QUALQUER NAVEGADOR DIGITE: localhost:8000
+5) O LOGIN É: admin@mail.com, A SENHA É: 1234567
+
+OBS.: O BANCO DE DADOS É O SQLITE; NÃO PRECISA DE CONEXÃO COM MYSQL OU OUTRO BANCO DE DADOS.
